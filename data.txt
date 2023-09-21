@@ -1,0 +1,5 @@
+2022-12-27 10:09:20.430322,Anonymous,10,Random Date American Silver Eagle
+2022-12-27 12:12:20.430322,John Smith PUBLIC,5,Random Date American Silver Eagle
+2022-12-27 12:15:20.430322,Matt Bo FTW PUBLIC,3,Space Panda Limited Mint (250)
+2022-12-27 10:09:20.430322,Anonymous,95,Random Date Maple
+2022-12-27 10:09:20.430322,Anonymous,6,Random Date Brit King
